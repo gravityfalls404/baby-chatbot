@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-babychatbot-dev-205531-authRole",
+      "UnauthRoleArn": "arn:aws:iam::577206572412:role/amplify-babychatbot-dev-205531-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::577206572412:role/amplify-babychatbot-dev-205531-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-babychatbot-dev-205531-deployment",
+      "UnauthRoleName": "amplify-babychatbot-dev-205531-unauthRole",
+      "StackName": "amplify-babychatbot-dev-205531",
+      "StackId": "arn:aws:cloudformation:us-east-1:577206572412:stack/amplify-babychatbot-dev-205531/df663ec0-f830-11ea-912e-0ec6977a61f1",
+      "AmplifyAppId": "d2nvxhsdrzhwew"
+    },
+    "categories": {
+      "auth": {
+        "cognitobddb4f3a": {}
+      }
+    }
+  }
+}

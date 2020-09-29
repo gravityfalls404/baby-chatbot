@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "cognitobddb4f3a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation"
+    }
+  },
+  "interactions": {
+    "lexc6e77d17": {
+      "service": "Lex",
+      "providerPlugin": "awscloudformation",
+      "build": true
+    }
+  }
+}
